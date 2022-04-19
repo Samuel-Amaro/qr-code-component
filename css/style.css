@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Outfit, sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.component{
+    max-width: 1440px;
+    min-width: 375px;
+    width: 375px;
+    margin: 25px auto;
+    background-color: hsl(0, 0%, 100%);
+    padding: 15px;
+    border-radius: 20px;
+}
+
+img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+h3{
+    padding: 5px;
+    text-align: center;
+    margin: 8px 0;
+    font-weight: 700;
+}
+
+p{
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+    font-weight: 400;
+}
+
+.attribution{
+    margin: 50px;
+    text-align: center;
+}
