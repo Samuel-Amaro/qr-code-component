@@ -21,7 +21,6 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 ### Links
 
 - URL da solução: [qr-code-component](https://github.com/Samuel-Amaro/qr-code-component)
-- URL do site ao vivo: [Adicione o URL do site ao vivo aqui](https://your-live-site-url.com)
 
 ## Meu processo
 
@@ -37,4 +36,4 @@ Neste projeto por ter um caráter simples, foi de muito valor para aprender e us
 ## Autor
 
 - Site - [Samuel Amaro](https://github.com/Samuel-Amaro)
-- front end mentor - [@Samuel-Amaro](https://www.frontendmentor.io/profile/seunomedeusuário)
+- front end mentor - [@Samuel-Amaro](https://www.frontendmentor.io/profile/Samuel-Amaro)
